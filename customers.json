@@ -5,6 +5,6 @@
   { "id": 4, "name": "Priya", "number": "+915656565656", "order_status": "Delivered" },
   { "id": 5, "name": "Guru", "number": "+911212121212", "order_status": "Pending" },
   { "id": 6, "name": "Anjali", "number": "+916969696969", "order_status": "Delivered" },
-  { "id": 6, "name": "Anjali", "number": "+916969696969", "order_status": "Delayed" }
+  { "id": 7, "name": "Samay", "number": "+918282828282", "order_status": "Delayed" }
 ]
 
