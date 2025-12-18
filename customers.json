@@ -1,9 +1,10 @@
 [
-  { "id": 1, "name": "Rahul", "number": "+919999999999", "order_status": "pending" },
-  { "id": 2, "name": "Anita", "number": "+918888888888", "order_status": "delivered" },
-  { "id": 3, "name": "Shubham", "number": "+917777777777", "order_status": "pending" },
-  { "id": 4, "name": "Priya", "number": "+915656565656", "order_status": "delivered" },
-  { "id": 5, "name": "Guru", "number": "+911212121212", "order_status": "pending" },
-  { "id": 6, "name": "Anjali", "number": "+916969696969", "order_status": "delivered" }
+  { "id": 1, "name": "Rahul", "number": "+919999999999", "order_status": "Pending" },
+  { "id": 2, "name": "Anita", "number": "+918888888888", "order_status": "Delivered" },
+  { "id": 3, "name": "Shubham", "number": "+917777777777", "order_status": "Pending" },
+  { "id": 4, "name": "Priya", "number": "+915656565656", "order_status": "Delivered" },
+  { "id": 5, "name": "Guru", "number": "+911212121212", "order_status": "Pending" },
+  { "id": 6, "name": "Anjali", "number": "+916969696969", "order_status": "Delivered" }
+  { "id": 6, "name": "Anjali", "number": "+916969696969", "order_status": "Delayed" }
 ]
 
